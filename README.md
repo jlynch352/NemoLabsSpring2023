@@ -37,5 +37,9 @@ We analyzed this system using:
 
 ## Scripts
 
-##
+- **Nulclines.m**
+  Draws the phase‐plane nullclines, overlays the full vector field, simulates solution trajectories from several initial conditions, and marks the vertical dividing line that separates regions of stable versus unstable endemic equilibria.
+- **RinTermsOfM.m**
+  Compares the needed r-value for a given system with and without a specialist macrophages, and then plots a graph comparing them
+
 
