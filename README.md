@@ -37,36 +37,51 @@ We analyzed this system using:
 - **Numerical Simulations**  
   Used numerical methods to solve the system of ODEs and illustrate how trajectories evolve.
 
+## Project Files
+
+- [Deriving Equations](./DerivingEquations.pdf)  
+  Shows the work behind the equations and criteria used in the project.
+
+- [Presentation](./Presentation.pdf)  
+  This PDF contains the PowerPoint slides for the project.
+
+- [System of Three Equations](./SystemOfThreeEquations.pdf)  
+  Short document outlining the three‐equation model and parameter meanings.
+
+- [System of Two Equations](./SystemOfTwoEquations.pdf)  
+  Short document outlining the two‐equation model and parameter meanings.
+
+
 ## Scripts
 
-- **Nulclines.m**  
+- [Nulclines.m](./Nulclines.m)  
   Draws the phase‐plane nullclines, overlays the full vector field, simulates solution trajectories from several initial conditions, and marks the vertical dividing line that separates regions of stable versus unstable endemic equilibria.
 
-- **RinTermsOfM.m**  
+- [RinTermsOfM.m](./RinTermsOfM.m)  
   Compares the needed r-value for a given system with and without a specialist macrophages, then plots a graph comparing them.
 
-- **ScaledVsUnscaled.m**  
+- [ScaledVsUnscaled.m](./ScaledVsUnscaled.m)  
   Sketches two graphs—one scaled and one unscaled—that compare the differences between the graphs of a scaled and unscaled system of equations.
 
-- **Stableequilibrium.m**  
+- [Stableequilibrium.m](./Stableequilibrium.m)  
   Sketches three different plots that display three types of node stability—Stable, Unstable, and Saddle Node.
 
-- **ThreeGraphs.m**  
+- [ThreeGraphs.m](./ThreeGraphs.m)  
   Sketches the nullclines for a system and displays three separate nullclines for the pathogen representing different r-values.
 
-- **basePlot.m**  
+- [basePlot.m](./basePlot.m)  
   Graphs a basic nullcline plot of the system with arrows showing the direction points are being pushed in.
 
-- **findingNumberOfSolutions.m**  
+- [findingNumberOfSolutions.m](./findingNumberOfSolutions.m)  
   Shows three different parabolas representing how systems with all else equal, except for their r-values, have different numbers of solutions.
 
-- **pg_scaled.m**  
+- [pg_scaled.m](./pg_scaled.m)  
   Script for numerically solving the scaled system of equations.
 
-- **pg_unscaled.m**  
+- [pg_unscaled.m](./pg_unscaled.m)  
   Script for numerically solving the unscaled system of equations.
 
-- **testUnscled.m**  
+- [testUnscled.m](./testUnscled.m)  
   Draws a simple graph to test that the pg_scaled.m script works correctly.
 
 ## How to Run Scripts
