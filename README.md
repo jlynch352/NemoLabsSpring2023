@@ -35,7 +35,7 @@ We analyzed this system using:
 - **Numerical Simulations**  
   Used numerical methods to solve the system of ODEs and illustrate how trajectories evolve.
 
-## Scipts
+## Scripts
 
 ##
 
