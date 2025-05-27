@@ -6,11 +6,11 @@ This repository contains code, data, and documents for my research modeling the 
 
 ### Two-Equation System
 - $\frac{dP}{dT} = \alpha P(1 - \frac{P}{b}) - \mu PG$ 
-- $\frac{dG}{dT} = \delta - \sigma - \mu PG$ 
+- $\frac{dG}{dT} = \delta - \sigma G - \mu PG$ 
   
 ### Three-Equation System
 - $\frac{dP}{dT} = \alpha p(1 - \frac{p}{b}) - \mu pg -\kappa sp$ 
-- $\frac{dG}{dT} = \delta - \sigma - \mu pg$
+- $\frac{dG}{dT} = \delta - \sigma G - \mu pg$
 - $\frac{dS}{dT} = \frac{\phi P}{\eta + P} - \psi S$
   
 ## Analysis
