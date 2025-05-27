@@ -81,7 +81,7 @@ We analyzed this system using:
 - [pg_unscaled.m](Scripts/pg_unscaled.m)  
   Script for numerically solving the unscaled system of equations.
 
-- [testUnscled.m](Scripts/testUnscaled.m)  
+- [testUnscaled.m](Scripts/testUnscaled.m)  
   Draws a simple graph to test that the pg_scaled.m script works correctly.
 
 ## How to Run Scripts
