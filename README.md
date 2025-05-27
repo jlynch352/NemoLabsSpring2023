@@ -54,34 +54,34 @@ We analyzed this system using:
 
 ## Scripts
 
-- [Nulclines.m](./Scripts/Nulclines.m)  
+- [Nulclines.m](Scripts/Nulclines.m)  
   Draws the phase‐plane nullclines, overlays the full vector field, simulates solution trajectories from several initial conditions, and marks the vertical dividing line that separates regions of stable versus unstable endemic equilibria.
 
-- [RinTermsOfM.m](./Scripts/RinTermsOfM.m)  
+- [RinTermsOfM.m](Scripts/RinTermsOfM.m)  
   Compares the needed r-value for a given system with and without a specialist macrophages, then plots a graph comparing them.
 
-- [ScaledVsUnscaled.m](./Scripts/ScaledVsUnscaled.m)  
+- [ScaledVsUnscaled.m](Scripts/ScaledVsUnscaled.m)  
   Sketches two graphs—one scaled and one unscaled—that compare the differences between the graphs of a scaled and unscaled system of equations.
 
-- [Stableequilibrium.m](./Scripts/Stableequilibrium.m)  
+- [Stableequilibrium.m](Scripts/Stableequilibrium.m)  
   Sketches three different plots that display three types of node stability—Stable, Unstable, and Saddle Node.
 
-- [ThreeGraphs.m](./Scripts/ThreeGraphs.m)  
+- [ThreeGraphs.m](Scripts/ThreeGraphs.m)  
   Sketches the nullclines for a system and displays three separate nullclines for the pathogen representing different r-values.
 
-- [basePlot.m](./Scripts/basePlot.m)  
+- [basePlot.m](Scripts/basePlot.m)  
   Graphs a basic nullcline plot of the system with arrows showing the direction points are being pushed in.
 
-- [findingNumberOfSolutions.m](./Scripts/findingNumberOfSolutions.m)  
+- [findingNumberOfSolutions.m](Scripts/findingNumberOfSolutions.m)  
   Shows three different parabolas representing how systems with all else equal, except for their r-values, have different numbers of solutions.
 
-- [pg_scaled.m](./Scripts/pg_scaled.m)  
+- [pg_scaled.m](Scripts/pg_scaled.m)  
   Script for numerically solving the scaled system of equations.
 
-- [pg_unscaled.m](./Scripts/pg_unscaled.m)  
+- [pg_unscaled.m](Scripts/pg_unscaled.m)  
   Script for numerically solving the unscaled system of equations.
 
-- [testUnscled.m](./Scripts/testUnscled.m)  
+- [testUnscled.m](Scripts/testUnscaled.m)  
   Draws a simple graph to test that the pg_scaled.m script works correctly.
 
 ## How to Run Scripts
