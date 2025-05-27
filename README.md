@@ -39,16 +39,16 @@ We analyzed this system using:
 
 ## Project Files
 
-- [Deriving Equations](./Files/DerivingEquations.pdf)  
+- [Deriving Equations](Files/DerivingEqutaions.pdf)  
   Shows the work behind the equations and criteria used in the project.
 
-- [Presentation](./Files/Presentation.pdf)  
+- [Presentation](Files/DerivingEqutaions.pdf)  
   This PDF contains the PowerPoint slides for the project.
 
-- [System of Three Equations](./Files/SystemOfThreeEquations.pdf)  
+- [System of Three Equations](Files/SystemOfThreeEquations.pdf)  
   Short document outlining the three‐equation model and parameter meanings.
 
-- [System of Two Equations](./Files/SystemOfTwoEquations.pdf)  
+- [System of Two Equations](Files/SystemOfTwoEquations.pdf)  
   Short document outlining the two‐equation model and parameter meanings.
 
 
