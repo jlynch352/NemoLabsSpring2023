@@ -111,9 +111,12 @@ We analyzed this system using:
    
 ## Acknowledgments
 Thank you too,
--- Proffessor Glenn Ledder, lead and acted as a the leader of the project. Helped guide my research and work
--- Michael Pieper, for helping me throughout the project by answersing my questions and meeting in person with me
--- Sophia Thompson, work with me on the research problem with me for most of the project
+- **Proffessor Glenn Ledder**
+  lead and acted as a the leader of the project. Helped guide my research and work
+- **Michael Pieper** 
+  for helping me throughout the project by answersing my questions and meeting in person with me
+- **Sophia Thompson** 
+  worked with me on the research problem with me for most of the project
 
 
 
