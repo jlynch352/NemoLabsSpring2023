@@ -108,3 +108,13 @@ We analyzed this system using:
 
    % Example: run a script that depends on pg_scaled and pg_unscaled
    ScaledVsUnscaledScript
+   
+## Acknowledgments
+Thank you too,
+-- Proffessor Glenn Ledder, lead and acted as a the leader of the project. Helped guide my research and work
+-- Michael Pieper, for helping me throughout the project by answersing my questions and meeting in person with me
+-- Sophia Thompson, work with me on the research problem with me for most of the project
+
+
+
+   
